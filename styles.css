@@ -14,7 +14,8 @@ header, .sites{
     max-width: 100%;
     height: auto;
     margin-bottom: 15px;
-    margin: 0 auto;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 
